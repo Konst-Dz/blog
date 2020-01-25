@@ -1,0 +1,15 @@
+.success{
+	color:green;
+}
+.error{
+	color:red;
+}
+header a{
+	text-decoration:none;
+	padding:5px;
+	margin:10;
+	color:red;
+}
+main{
+	background-color:grey ;
+}
